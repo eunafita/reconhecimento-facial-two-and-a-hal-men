@@ -1,5 +1,4 @@
-# Reconhecimento de Personagens - Two and a Half Men
-# Reconhecimento de Objetos usando a WebCam em tempo real
+# Reconhecimento de Personagens - Two and a Half Men & Reconhecimento de Objetos usando a WebCam em tempo real
 
 ## Sobre o Projeto
 Este projeto implementa um sistema de detecção de objetos usando YOLOv8, com dois objetivos principais:
