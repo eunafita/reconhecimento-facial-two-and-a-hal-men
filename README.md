@@ -1,9 +1,17 @@
 # Reconhecimento de Personagens - Two and a Half Men
+# Reconhecimento de Objetos usando a WebCam em tempo real
 
 ## Sobre o Projeto
 Este projeto implementa um sistema de detecção de objetos usando YOLOv8, com dois objetivos principais:
 1. Reconhecimento dos personagens principais da série "Two and a Half Men" (Charlie, Alan e Jake)
 2. Demonstração de detecção de objetos em tempo real usando webcam
+
+O projeto foi inteiramente desenvolvido no Google Colab, permitindo fácil acesso e execução sem necessidade de configuração local.
+
+### Notebook Original
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/155CGi44G_qBSTjT88l9svPjP7xIzdGRt#scrollTo=3MISNbxkIAhE)
+
+> **Nota**: Você pode acessar e executar o projeto diretamente no Google Colab através do link acima.
 
 ## Características
 - Treinamento personalizado da YOLOv8 para reconhecimento de personagens
@@ -23,6 +31,14 @@ Este projeto implementa um sistema de detecção de objetos usando YOLOv8, com d
 - Dataset personalizado dos personagens de Two and a Half Men
 - Disponível no Kaggle: [Two and a Half Men Dataset](https://www.kaggle.com/rafaelbortoluzzi/two-and-a-half-men)
 - Classes: Charlie, Alan e Jake
+- Inclui 4 imagens de teste na pasta 
+`Samples`
+:
+  - test1.jpg
+  - test2.jpg
+  - test3.jpg
+  - test4.jpg
+- As imagens de teste são utilizadas para demonstrar o funcionamento do modelo treinado
 
 ## Como Usar
 1. Abra o notebook no Google Colab
