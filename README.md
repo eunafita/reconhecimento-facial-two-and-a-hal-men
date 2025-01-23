@@ -72,7 +72,9 @@ O projeto foi inteiramente desenvolvido no Google Colab, permitindo fácil acess
 MIT License - veja [LICENSE](LICENSE) para mais detalhes
 
 ## Autor
-Rafael Bortoluzzi
+*Rafael Bortoluzzi*
+
+*rafaeldnbr@hotmail.com*
 
 ## Agradecimentos
 - Two and a Half Men (série)
